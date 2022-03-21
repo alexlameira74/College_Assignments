@@ -1,5 +1,4 @@
-# College_Assignments
-Config files for my GitHub profile.
+# Estudo de Caso da Disciplina Linguagem para Desenvolvimento#1
 
 #Elabore um programa em linguagem Python para cálculo de notas de alunos 
 considerando um período letivo de 4 bimestres e média para aprovação sendo 7,0 pontos. 
